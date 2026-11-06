@@ -1,3 +1,3 @@
 # 101.RSCH.options
 
-Options research scratchpad. Empty for now — content coming as the derivatives work spins up.
+Options research scratchpad. Empty for now. Content coming as the derivatives work spins up.
